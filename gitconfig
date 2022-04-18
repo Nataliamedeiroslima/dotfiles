@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = nlima.farm@gmail.com
+	name = Natalia Lima
